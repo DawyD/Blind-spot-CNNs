@@ -13,7 +13,7 @@ The principal building block is a new 2D convolutional [layer](convhole.py) with
 # Content
 * [[Blind-Spot Convolution](convhole.py)]
 * [[Network Architecture](architecture.py)]
-* [[Notebook for Visualisation of the ReceptiveField](VisualiseReceptiveField.py)]
+* [[Notebook for Visualisation of the ReceptiveField](VisualiseReceptiveField.ipynb)]
 
 # Citation
 If you find this work useful, please cite us:
